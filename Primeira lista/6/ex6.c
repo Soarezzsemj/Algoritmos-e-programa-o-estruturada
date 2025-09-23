@@ -23,18 +23,9 @@ int main(void){
     desconto_sal = ( a_receber - desconto );
 
 
-
     printf("\n seu salario com gratificacao: %.2lf ", a_receber);
     printf("\n seu salario final com o imposto: %.2lf ", desconto_sal);
 
-
-
-
-   
-   
-   
-   
-    
     
     return 0;
 }
