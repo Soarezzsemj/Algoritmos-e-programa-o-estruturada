@@ -13,7 +13,7 @@ double calculo(double N){
     double E = 2.0;
     double fatorial = 1.0;
 
-    for( int i=2; i <= N; i++ ){
+    for( int i = 2; i <= N; i++ ){
 
      fatorial = fatorial * i;
 
