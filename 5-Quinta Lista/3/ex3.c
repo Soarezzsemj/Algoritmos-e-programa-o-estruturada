@@ -14,3 +14,34 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+
+
+int main() {
+    double salario = 545;
+    double acrescimo = 0.5;
+    double valortotal;
+
+    int vetorprecovenda[10];
+    int vetoruquantidadevendida[10];
+
+
+    for (int i  = 0; i < 10; i++) {
+        printf("\n Digite o valor da peça:");
+    scanf("%i", &vetorprecovenda[i]);
+        printf("\n Digite a quantidade vendida: ");
+        scanf("%i", &vetoruquantidadevendida[i]);
+    }
+
+    for (int i  = 0; i < 10; i++) {
+        valortotal += vetoruquantidadevendida[i] * vetorprecovenda[i];
+    }
+    printf(" \n =================== R E L A T O R I O =================== \n ");
+    printf(" O valor total vendido foi de: %.2lf R$ ", valortotal);
+
+    // fazer a parte do valor unitario das peças e o resto
+
+
+
+
+    return 0;
+}
