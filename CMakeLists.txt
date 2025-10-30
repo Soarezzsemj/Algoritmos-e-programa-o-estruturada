@@ -40,6 +40,7 @@ add_executable(lista5_ex2 "5-Quinta lista/2/ex2.c")
 add_executable(lista5_ex3 "5-Quinta lista/3/ex3.c")
 add_executable(lista5_ex4 "5-Quinta lista/4/ex4.c")
 add_executable(lista5_ex5 "5-Quinta lista/5/ex5.c")
+add_executable(lista5_ex6 "5-Quinta lista/6/ex6.c")
 
 # ===== 6ª Lista =====
 add_executable(lista6_ex1 "6-Sexta Lista/1/ex1.c")
