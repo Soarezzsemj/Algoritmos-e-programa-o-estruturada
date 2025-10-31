@@ -12,6 +12,7 @@ add_executable(lista1_ex5 "1-Primeira lista/5/ex5.c")
 add_executable(lista1_ex6 "1-Primeira lista/6/ex6.c")
 add_executable(lista1_ex7 "1-Primeira lista/7/ex7.c")
 add_executable(lista1_ex8 "1-Primeira lista/8/ex8.c")
+add_executable(lista1_ex9 "1-Primeira lista/9/ex9.c")
 
 # ===== 2ª Lista =====
 add_executable(lista2_ex1 "2-Segunda lista/1/ex1.c")
@@ -45,7 +46,7 @@ add_executable(lista5_ex6 "5-Quinta lista/6/ex6.c")
 # ===== 6ª Lista =====
 add_executable(lista6_ex1 "6-Sexta Lista/1/ex1.c")
 add_executable(lista6_ex2 "6-Sexta Lista/2/ex2.c")
-
+add_executable(lista6_ex3 "6-Sexta Lista/3/ex3.c")
 
 # ===== Videoaulas =====
 add_executable(VideoaulasStructs "Videoaulas/Structs/Structs.c")
