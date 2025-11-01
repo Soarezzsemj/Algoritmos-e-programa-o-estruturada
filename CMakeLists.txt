@@ -47,6 +47,7 @@ add_executable(lista5_ex6 "5-Quinta lista/6/ex6.c")
 add_executable(lista6_ex1 "6-Sexta Lista/1/ex1.c")
 add_executable(lista6_ex2 "6-Sexta Lista/2/ex2.c")
 add_executable(lista6_ex3 "6-Sexta Lista/3/ex3.c")
+add_executable(lista6_ex4 "6-Sexta Lista/4/ex4.c")
 
 # ===== Videoaulas =====
 add_executable(VideoaulasStructs "Videoaulas/Structs/Structs.c")
