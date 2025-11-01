@@ -49,7 +49,11 @@ add_executable(lista6_ex2 "6-Sexta Lista/2/ex2.c")
 add_executable(lista6_ex3 "6-Sexta Lista/3/ex3.c")
 add_executable(lista6_ex4 "6-Sexta Lista/4/ex4.c")
 add_executable(lista6_ex5 "6-Sexta Lista/5/ex5.c")
-add_executable(lista6_ex5 "6-Sexta Lista/6/ex6.c")
+add_executable(lista6_ex6 "6-Sexta Lista/6/ex6.c")
+add_executable(lista6_ex7 "6-Sexta Lista/7/ex7.c")
+add_executable(lista6_ex8 "6-Sexta Lista/8/ex8.c")
+add_executable(lista6_ex9 "6-Sexta Lista/9/ex9.c")
+add_executable(lista6_ex10 "6-Sexta Lista/10/ex10.c")
 
 # ===== Videoaulas =====
 add_executable(VideoaulasStructs "Videoaulas/Structs/Structs.c")
