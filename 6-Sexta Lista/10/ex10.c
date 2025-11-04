@@ -5,3 +5,13 @@
 // Não se esqueça de liberar a memória no final com free()
 
 
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+
+
+
+
+    return 0;
+}
